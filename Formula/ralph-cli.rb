@@ -1,8 +1,8 @@
 class RalphCli < Formula
   desc "CLI tool implementing the Ralph autonomous iteration pattern for Claude Code"
   homepage "https://github.com/jackemcpherson/ralph-cli"
-  url "https://files.pythonhosted.org/packages/3a/3a/b58734d6f0f5d7569601f52caf7c32fb911702175db32b0fbc24ddf4544c/ralph_cli-2.2.0.tar.gz"
-  sha256 "13a6bbf1f21360a5e5bd7e79e68f25ee1b3bd47cbba12c51d25101fb8cc3b8e1"
+  url "https://files.pythonhosted.org/packages/d2/6a/0dd3cdee3b4086465cedba1e41de7e2bd800dd65a059792e10831e749c51/ralph_cli-2.2.1.tar.gz"
+  sha256 "8d50141a59f4319870ca2b384e3824a54fff4fddf647662b5b924fea66b000b7"
   license "MIT"
 
   depends_on "python@3.13"
