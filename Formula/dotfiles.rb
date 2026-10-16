@@ -1,9 +1,9 @@
 class Dotfiles < Formula
   desc "Reconcile a Mac against the dotfiles bundle"
   homepage "https://github.com/jackemcpherson/dotfiles"
-  url "https://github.com/jackemcpherson/homebrew-tap/releases/download/v0.7.3/dotfiles-darwin-arm64"
-  sha256 "2cb8261f27b0c43ed5241d144c5c8942a7cfddb8809bc6ea0541f40498493d08"
-  version "0.7.3"
+  url "https://github.com/jackemcpherson/homebrew-tap/releases/download/v0.7.4/dotfiles-darwin-arm64"
+  sha256 "e293b8102888e46bf5490a1aef34b7926058810529e484866e782be72d00555e"
+  version "0.7.4"
 
   depends_on :macos
   depends_on arch: :arm64
